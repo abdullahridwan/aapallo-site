@@ -1,3 +1,5 @@
 .DS_Store
 .vercel
 .env*
+videos/node_modules
+videos/out

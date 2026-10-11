@@ -1,0 +1,24 @@
+{
+  "name": "videos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@remotion/bundler": "^4.0.534",
+    "@remotion/cli": "^4.0.534",
+    "@remotion/fonts": "^4.0.534",
+    "@remotion/google-fonts": "^4.0.534",
+    "@remotion/player": "^4.0.534",
+    "@remotion/renderer": "^4.0.534",
+    "esbuild": "^0.28.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.534"
+  }
+}
